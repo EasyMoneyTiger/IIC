@@ -1,2 +1,2 @@
 # IIC
-Expand the 8086 system by incorporating the I²C memory module 24C01 to implement I²C master timing control and enable read/write functionality for the I²C memory.
+通过x86汇编完成8086微机系统对24C02 串行总线存储器的读与写的操作，实现IIC通讯
